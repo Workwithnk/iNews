@@ -12,7 +12,7 @@ btn.addEventListener("click",function(){
        let Htmldata = `<div id="news" style="margin-bottom:5px;">
                             <div id="fpart">
                                 <h1>${e["source"]["name"]}</h1>
-                                <a href="${e["source"]["url"]}">click to visit</a>
+                                <a href="${e["source"]["url"]}">visit</a>
                             </div>
                             <div id="spart">
                                 <p> ${e["title"]}</p>
