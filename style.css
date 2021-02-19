@@ -76,7 +76,7 @@
    
     border-radius: 10px;
     background-color: #f5f6fa;
-    box-shadow: 2px 2px 2px 2px #dcdde1;
+    box-shadow: 1px 0px 3px 4px #dcdde1;
 }
 #fpart {
     display: flex;
