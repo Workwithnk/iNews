@@ -9,7 +9,7 @@
 /* navbar section */
 #navBar {
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
     align-items: center;
     background-color:#34495e ;
     position: sticky;
